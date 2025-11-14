@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/responsive-figma-to-web-conversion-41245-41261/responsive_frontend"
+}

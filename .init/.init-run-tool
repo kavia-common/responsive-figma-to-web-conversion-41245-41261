@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/responsive-figma-to-web-conversion-41245-41261/responsive_frontend"
+}
